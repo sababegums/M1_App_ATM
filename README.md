@@ -3,6 +3,7 @@
 ![Github Badge](https://img.shields.io/badge/Code%20grade-B-brightgreen)
 ![badges](https://img.shields.io/badge/built-passing-brightgreen)
 ![codecheck](https://img.shields.io/badge/Code%20Quality%20Score-80-brightgreen)
+![Screenshot (42)](https://user-images.githubusercontent.com/94221735/143087574-8548a7b1-ffe0-4642-89e3-2d1e5576fb1e.png)
 
 # Folder Structure
 
@@ -34,7 +35,7 @@
 # Challenges Faced and How Was It Overcome
 1. Working with vsc, learnt from training.
 2. Debugging learnt from buddy team.
-3. Multifile, got good knowledge from couse material.
+3. Multifile, got good knowledge from course material.
 4. Building workflow found to be difficult task, learnt from online source.
 
 # Learning Resources
