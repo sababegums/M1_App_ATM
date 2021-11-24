@@ -3,11 +3,9 @@
 ![Github Badge](https://img.shields.io/badge/Code%20grade-B-brightgreen)
 ![badges](https://img.shields.io/badge/built-passing-brightgreen)
 ![codecheck](https://img.shields.io/badge/Code%20Quality%20Score-80-brightgreen)
-![Screenshot (42)](https://user-images.githubusercontent.com/94221735/143087574-8548a7b1-ffe0-4642-89e3-2d1e5576fb1e.png)
+![Screenshot_20211124-095631_Gmail](https://user-images.githubusercontent.com/94221735/143175276-4e8674e6-930f-4753-9ec7-02eaf4ccb1a0.jpg)
 
 # Folder Structure
-
----
 
 | Folder | Description                                            |
 | ------ | --------------------------------------------           |
