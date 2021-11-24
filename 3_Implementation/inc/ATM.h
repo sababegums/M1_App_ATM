@@ -41,7 +41,8 @@ int main(void) {
     int pinValid = 0, balance = 0;
 
     node *head = NULL; 
-  
+}
+
 #endif
 
 /**
